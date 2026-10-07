@@ -5,8 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bmrifat&label=Profile+Views&color=2f81f7&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Batch-93-blue?style=flat" alt="Batch 93" />
   <img src="https://img.shields.io/badge/Location-Bangladesh-green?style=flat" alt="Bangladesh" />
 </p>
 
@@ -14,7 +12,7 @@
 
 ### 🚀 About Me
 
-I'm a **2nd-year BSc CSE student** at **Dhaka International University (DIU)** from Bangladesh. I care less about syntax and more about how real products are
+I'm a **Final-year BSc in CSE student** at **Dhaka International University (DIU)** from Bangladesh. I care less about syntax and more about how real products are
 **planned → designed → coded → tested → secured → deployed → maintained → scaled.**
 
 My goal is to grow into a **strong software engineer and tech entrepreneur**, combining technical depth with communication, leadership, and business thinking.
@@ -97,9 +95,8 @@ Technical Skills + Software Engineering + Communication + Leadership + Business
 ### 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://facebook.com/YOUR-FACEBOOK"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/bm-rifat-b42866336/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.facebook.com/Rok.rifatahamed"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="mailto:bmrifat93@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<p align="center">⭐ If you like my work, consider giving a star to my repositories!</p>
