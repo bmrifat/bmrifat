@@ -86,7 +86,8 @@ My goal is to grow into a **strong software engineer and tech entrepreneur**, co
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=bmrifat&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=bmrifat&theme=tokyonight&timezone=Asia/Dhaka
+"alt="GitHub streak" />
 </p>
 
 ---
