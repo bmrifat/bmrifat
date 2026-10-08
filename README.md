@@ -83,7 +83,10 @@ My goal is to grow into a **strong software engineer and tech entrepreneur**, co
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=bmrifat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmrifat&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-[![GitHub Streak](https://streak-stats.demolab.com?user=bmrifat&theme=tokyonight&timezone=Asia%2FDhaka)](https://github.com/bmrifat)
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=bmrifat&theme=tokyonight&timezone=Asia/Dhaka
+"alt="GitHub streak" />
 </p>
 ---
 
