@@ -69,14 +69,22 @@ My goal is to grow into a **strong software engineer and tech entrepreneur**, co
 
 ---
 
-### 📌 Featured Projects
+### 🚀 Currently Building (Stealth Mode)
 
-| Project | Description | Stack |
-|---|---|---|
-| 🏥 **[ShasthoShathi](https://github.com/bmrifat/ShasthoSathi)** (স্বাস্থ্য সাথী) | Bengali-language AI health platform for Bangladesh: report & prescription analysis, symptom checker, emergency services hub, and Bengali audio support | Next.js, React, TypeScript, Tailwind CSS, Prisma, NextAuth, Gemini AI |
-| 🩺 **Doctor Management System** | Patient queue, records, payments, prescriptions & medical history in one secure dashboard | HTML, Tailwind CSS, JavaScript, Node.js, MySQL |
+> Some of my best work lives in private repositories for now. Here is the mission behind it.
+
+| Focus Area | Mission |
+|---|---|
+| 🏥 **Digital Healthcare for Bangladesh** | Making quality health information accessible, understandable, and available in Bangla for everyone |
+| 🩺 **Tools for Doctors** | Helping doctors spend less time on paperwork and more time with their patients |
+| 🔒 **Engineering Principles** | Security-first, scalable, and built for production from day one |
+
+<p align="center">
+  <i>🔐 Private repositories · Architecture walkthroughs available on request</i>
+</p>
 
 ---
+
 
 ### 📊 GitHub Stats
 
@@ -101,5 +109,4 @@ Technical Skills + Software Engineering + Communication + Leadership + Business
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=bmrifat&label=Profile%20Views&color=2f81f7&style=flat" alt="Profile views" />
 
