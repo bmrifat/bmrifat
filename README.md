@@ -101,5 +101,5 @@ Technical Skills + Software Engineering + Communication + Leadership + Business
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=bmrifat&label=Profile+Views&color=2f81f7&style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=bmrifat&label=Profile%20Views&color=2f81f7&style=flat" alt="Profile views" />
 
