@@ -17,7 +17,7 @@ I'm a **Final-year BSc in CSE student** at **Dhaka International University (DIU
 
 My goal is to grow into a **strong software engineer and tech entrepreneur**, combining technical depth with communication, leadership, and business thinking.
 
-- 🔭 Currently building: **ShasthoShathi** — a Bengali-language AI health platform, and **Doctor Management System** — a secure practice management platform for individual doctors
+- 🔭 Currently building: **Health-tech products for Bangladesh** that make healthcare simpler for patients and doctors
 - 🌱 Currently learning: **Full-stack development, system design, backend architecture**
 - 🎯 Focus: **Scalable, secure, maintainable, production-ready applications**
 - 🗣️ Organising Secretary, **DIU CSE Speakers Club**
